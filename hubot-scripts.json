@@ -1,1 +1,22 @@
-["mongo-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "script.coffee",
+  "auth.coffee",
+  "mongo-brain.coffee", 
+  "tweet.coffee", 
+  "shipit.coffee", 
+  "google.coffee",
+  "ip.coffee",
+  "isup.coffee",
+  "github-status.coffee",
+  "heroku-status.coffee",
+  "xkcd.coffee",
+  "tasks.coffee",
+  "tell.coffee",
+  "hashing.coffee",
+  "wikipedia.coffee",
+  "http-info.coffee",
+  "dilbert.coffee",
+  "cleverbot.coffee",
+  "which-do-you-prefer.coffee",
+  "deadline.coffee"
+]
