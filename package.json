@@ -1,9 +1,10 @@
 {
-  "name":        "hosted-hubot",
+  "name":        "lavode",
   "version":     "2.4.5",
-  "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "author":      "airy",
+  "keywords":    "lavode the bot can talk talker",
+  "url":         "https://github.com/airy/lavode",
+  "description": "my lovely digital assistant",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
