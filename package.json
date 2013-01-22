@@ -1,0 +1,37 @@
+{
+  "name":        "lavode",
+  "version":     "2.4.5",
+  "author":      "airy",
+  "keywords":    "lavode the bot can talk talker",
+  "url":         "https://github.com/airy/lavode",
+  "description": "my lovely digital assistant",
+  "licenses":     [{
+    "type":       "MIT",
+    "url":        "http://github.com/github/hubot/raw/master/LICENSE"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url":  "https://github.com/github/hubot.git"
+  },
+
+  "dependencies": {
+    "hubot-talker": "*",
+    "hubot": ">=2.4.5",
+    "hubot-scripts": ">= 2.4.1",
+    "optparse": "1.0.3",
+    "mongodb": "*",
+    "htmlparser": "*",
+    "soupselect": "*",
+    "underscore": "*",
+    "underscore.string": "*",
+    "jsdom": "*",
+    "cleverbot-node": "*",
+    "xml2js": "*"
+  },
+
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": "1.1.x"
+  }
+}
