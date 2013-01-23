@@ -21,6 +21,7 @@
     "hubot-scripts": ">= 2.4.1",
     "optparse": "1.0.3",
     "mongodb": "*",
+    "bson": "*",    
     "htmlparser": "*",
     "soupselect": "*",
     "underscore": "*",
